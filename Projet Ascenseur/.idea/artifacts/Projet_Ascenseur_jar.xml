@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="Projet Ascenseur:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Projet_Ascenseur_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Projet Ascenseur.jar">
+        <element id="module-output" name="Projet Ascenseur" />
+      </element>
+      <element id="library" level="module" name="JUnit4" module-name="Projet Ascenseur" />
+      <element id="library" level="module" name="JUnit5.4" module-name="Projet Ascenseur" />
+    </root>
+  </artifact>
+</component>

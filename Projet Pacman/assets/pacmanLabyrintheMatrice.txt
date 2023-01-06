@@ -1,0 +1,32 @@
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X                           X                           X
+X                           X                           X
+X     X X X     X X X X     X     X X X X     X X X     X
+X     X X X     X X X X     X     X X X X     X X X     X
+X                                                       X
+X                                                       X
+X     X X X     X     X X X X X X X     X     X X X     X
+X               X           X           X               X
+X               X           X           X               X
+X X X X X X     X X X X     X     X X X X     X X X X X X
+X X X X X X     X                       X     X X X X X X
+X X X X X X     X                       X     X X X X X X
+X X X X X X     X     X X F F F X X     X     X X X X X X
+T                     X           X                     T
+T                     X           X                     T
+X X X X X X     X     X X X X X X X     X     X X X X X X
+X X X X X X     X                       X     X X X X X X
+X X X X X X     X                       X     X X X X X X
+X X X X X X     X     X X X X X X X     X     X X X X X X
+X                           X                           X
+X                           X                           X
+X     X X X     X X X X     X     X X X X     X X X     X
+X         X                                   X         X
+X         X                                   X         X
+X X X     X     X     X X X X X X X     X     X     X X X
+X               X           X           X               X
+X               X           X           X               X
+X     X X X X X X X X X     X     X X X X X X X X X     X
+X                                                       X
+X                                                       X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
